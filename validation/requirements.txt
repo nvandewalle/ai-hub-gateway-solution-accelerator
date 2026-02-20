@@ -13,7 +13,7 @@ redis
 msal
 openai
 openai[realtime]
-azure-cli
+# azure-cli
 azure-identity
 opentelemetry-api
 opentelemetry-sdk
@@ -26,6 +26,7 @@ azure-ai-inference[prompts]
 azure-search-documents
 azure-functions
 azure-mgmt-apimanagement
+ipykernel
 
 # MCP Labs
 mcp
